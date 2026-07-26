@@ -1,2 +1,3 @@
 # my-first-repo
-test desc
+
+由 WorkBuddy GitHub MCP 管理。
